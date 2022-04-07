@@ -2,7 +2,7 @@
 /**
  *main - entery point
  *
- *return:0 after entering the function
+ *return: 0 after entering the function
  */
 int main(void)
 {
