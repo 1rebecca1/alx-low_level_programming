@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * Description:main - entery point
+ *
  * return:0 after entering the function
  * /
  int main(void)
