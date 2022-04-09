@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**/
+/**
  * main - prints a random number n and state whether n is positive, zero, or negative.
+ * 
  * Retturn: Always 0.
+*/
 int main(void)
 {
 	int n;
@@ -14,7 +16,7 @@ if (n > 0)
 printf("%d is positive\n", n);
 else if (n < 0)
 printf("%d is negative\n", n);
-elseXXx
+else
 printf("%d is zero\n",n);
 	return (0);
 }
