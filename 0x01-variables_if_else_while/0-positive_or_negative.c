@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main: print rand n and state whether n is positive, zero, or negative.
+ * main - entry point
  *
  * Retturn: Always 0.
  */
