@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**
+/**/
  * main - prints a random number n and state whether n is positive, zero, or negative.
  * Retturn: Always 0.
 int main(void)
