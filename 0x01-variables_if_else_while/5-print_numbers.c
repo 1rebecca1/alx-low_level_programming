@@ -11,6 +11,6 @@ for (number = 0; number < 10; number++)
 {
 printf("%number", number);
 }
-printf('\n');
+printf("\n");
 return (0);
 }
