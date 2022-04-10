@@ -1,15 +1,15 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main -Entry point
  *
  * Return: Always 0
  */
 int main(void)
 {
 char alph
-for (alph = 'a'; alph <= 'z'; alph++)
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-putchar(alph);
+putchar(alphabet);
 }
 putchar('\n');
 return (0);
